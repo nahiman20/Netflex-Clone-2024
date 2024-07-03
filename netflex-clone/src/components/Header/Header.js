@@ -11,7 +11,7 @@ const Header = () => {
       <div className="header_outer_container">
         <div className="header_container">
           <div className="header_left">
-            <img src={Neflexlogo} width={100} height={50} />
+            <img src={Neflexlogo} width={100}  />
           </div>
           <div className="HeaderCenter">
             <ul>
