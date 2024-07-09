@@ -4,8 +4,8 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    /* margin-top: 0.5rem; */
-    /* height: 40vh; */
+    margin-top: 0.5rem; 
+    height: 40vh; 
     padding: 3% 20% 6%;
 }
 
